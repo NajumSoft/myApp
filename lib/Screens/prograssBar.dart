@@ -1,0 +1,12 @@
+        // CircularPercentIndicator(
+        //   animation: true,
+        //   animationDuration: 500,
+        //   animateFromLastPercent: true,
+        //   radius: 300,
+        //   lineWidth: 25,
+        //   percent: val,
+        //   circularStrokeCap: CircularStrokeCap.round,
+        //   progressColor: Colors.deepPurple,
+        //   backgroundColor: Colors.deepPurple.shade200,
+        //   center: Text('$valueShow%', style: GoogleFonts.roboto(fontSize: 50)),
+        // ),
